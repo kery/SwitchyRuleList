@@ -1,0 +1,14 @@
+﻿[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2018/5/16
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.*
+*.google-analytics.com
+*.googleapis.com
+*.googletagservices.com
+*.googleadservices.com
+*.googleusercontent.com
+*.googlesyndication.com
+*.gstatic.com
+*.doubleclick.net
