@@ -4,12 +4,7 @@
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.google.*
-*.google-analytics.com
-*.googleapis.com
-*.googletagservices.com
-*.googleadservices.com
-*.googleusercontent.com
-*.googlesyndication.com
+*.google*.com
 *.gstatic.com
 *.youtube.com
 *.ytimg.com
