@@ -3,7 +3,7 @@
 ; Date: 2018/5/16
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
-*.google*.com
+*.google*.*
 *.gstatic.com
 *.youtube.com
 *.ytimg.com
