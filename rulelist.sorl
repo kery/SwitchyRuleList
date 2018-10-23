@@ -10,6 +10,7 @@
 *.ytimg.com
 *.twitter.com
 *.twimg.com
+*.ads-twitter.com
 *.ggpht.com
 *.doubleclick.net
 *.wikipedia.org
@@ -18,3 +19,4 @@
 *.tumblr.com
 *.stackoverflow.com
 *.sstatic.net
+*.quora.com
