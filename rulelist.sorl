@@ -5,6 +5,7 @@
 
 *.google*.*
 *.gstatic.com
+*.github.com
 *.golang.org
 *.youtube.com
 *.ytimg.com
